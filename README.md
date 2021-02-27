@@ -9,6 +9,6 @@ All links are functioning.
 
 All img tags have the "alt" value set.
 
-site URL :  https://zahid267.github.io/code_refactor/
+URL of the deployed application :  https://zahid267.github.io/code_refactor/
 
-Site Repository link : https://github.com/zahid267/code_refactor/
+URL of the GitHub repository : https://github.com/zahid267/code_refactor/
