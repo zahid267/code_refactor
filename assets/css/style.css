@@ -26,8 +26,8 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
-    /*header's div content will float to the right side*/
+.header nav {
+    /*header's content will float to the right side*/
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -35,12 +35,12 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header nav ul {
     list-style-type: none;  /*no style for ul*/
 }
 
-.header div ul li {
-    /*header's div list will be on same line*/
+.header nav ul li {
+    /*header's list will be on same line*/
     display: inline-block;
     margin-left: 25px;
 }
