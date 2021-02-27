@@ -55,7 +55,7 @@ p {/*paragraph font size*/
 }
 
 .hero {
-    /*hero class background image size*/
+    /*hero class background image and size*/
     height: 800px;      /*original value 800px;*/
     width: 100%;
     margin-bottom: 25px;
@@ -84,7 +84,7 @@ p {/*paragraph font size*/
 }
 
 .benefits {
-    /*benifit class will be displayed on the right side of the content class*/
+    /*benifits class will be displayed on the right side of the content class*/
     margin-right: 20px;
     padding: 20px;
     clear: both;
